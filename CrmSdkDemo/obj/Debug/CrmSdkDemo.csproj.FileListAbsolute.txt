@@ -1,1 +1,10 @@
 D:\CrmSdkDemo\CrmSdkDemo\bin\Debug\CrmSdkDemo.exe.config
+D:\CrmSdkDemo\CrmSdkDemo\bin\Debug\CrmSdkDemo.exe
+D:\CrmSdkDemo\CrmSdkDemo\bin\Debug\CrmSdkDemo.pdb
+D:\CrmSdkDemo\CrmSdkDemo\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\CrmSdkDemo\CrmSdkDemo\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\CrmSdkDemo\CrmSdkDemo\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\CrmSdkDemo\CrmSdkDemo\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\CrmSdkDemo\CrmSdkDemo\obj\Debug\CrmSdkDemo.exe
+D:\CrmSdkDemo\CrmSdkDemo\obj\Debug\CrmSdkDemo.pdb
+D:\CrmSdkDemo\CrmSdkDemo\obj\Debug\CrmSdkDemo.csprojResolveAssemblyReference.cache
